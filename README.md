@@ -9,7 +9,7 @@ $ npm install  webpack-logplugin -D
 with this plugin,you can make your webpack output info whenever your compile is done.
 ```javascript
 //webpack.config.js
-const LogPlugin = require('webpack-logPlugin');
+const LogPlugin = require('webpack-logplugin');
 module.exports = {
     plugins: [
         new LogPlugin( () => {
