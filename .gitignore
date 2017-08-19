@@ -1,0 +1,7 @@
+node_modules
+dist/
+.tmp
+app.yaml
+*.log
+.idea
+.DS_Store
