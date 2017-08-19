@@ -3,5 +3,5 @@ dist/
 .tmp
 app.yaml
 *.log
-.idea
+.idea/
 .DS_Store

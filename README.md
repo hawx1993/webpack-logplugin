@@ -18,3 +18,9 @@ module.exports = {
     ]
 }
 ```
+
+## Author
+
+webpack-logplugin © trigkit4, Released under the MIT License.
+
+Authored and maintained by trigkit4 with help from contributors (list).
